@@ -10,7 +10,7 @@ blinko保存笔记的快捷指令，需要修改一下自己的blinko域名
 
 
 # 下载链接
-https://www.icloud.com/shortcuts/3387c836c8f34f56a929a4b51b240f32
+https://www.icloud.com/shortcuts/71531f94deca4c07961928dddc42f02b
 
 
 # 二维码
