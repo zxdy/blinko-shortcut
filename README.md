@@ -4,6 +4,11 @@ blinko保存笔记的快捷指令，需要修改一下自己的blinko域名
 
 
 # 效果
+
+![alt text](image-1.png)
+![alt text](image-2.png)
+![alt text](image-3.png)
+
 <video controls src="RPReplay_Final1767428681_1767428790593.mp4" title="Title"></video>
 
 
